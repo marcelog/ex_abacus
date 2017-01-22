@@ -5,7 +5,7 @@ defmodule Abacus.Mixfile do
     [app: :ex_abacus,
      version: "0.0.1",
      elixir: "~> 1.1-dev",
-     deps: deps]
+     deps: deps()]
   end
 
   # Configuration for the OTP application
